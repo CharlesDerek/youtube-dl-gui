@@ -33,11 +33,11 @@ A cross platform front-end GUI of the popular [youtube-dl](https://rg3.github.io
 
 ### Install PyPi
 1. check if pip is installed:
- ~ pip -version
+`pip -version`
 2. Install (if not installed):
- ~ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
- ~ python get-pip.py
-	** using sudo or --user as an attribute might be required **
+`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+`python get-pip.py`
+* using sudo or --user as an attribute might be required
 
 1. Run `pip install youtube-dlg`
 
